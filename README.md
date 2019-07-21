@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -71,4 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # simpleformreact
 
 Repository learning simple form reactjs design
->>>>>>> 9036db3fb5d3ba5582f6c4e51886ac647fed0ef4
+
